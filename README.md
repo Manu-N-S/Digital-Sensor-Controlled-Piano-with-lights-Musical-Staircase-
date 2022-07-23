@@ -1,4 +1,4 @@
-# Digital-Sensor-Controlled-Piano-with-lights-Musical-Staircase-
+# Digital-Sensor-Controlled-Piano-with-lights-Musical-Staircase-using C++ and Arduino library.
 WORKING :
 Musical staircase is basically an interactive interface which 
 sounds with different tones when you step on stairs one by 
